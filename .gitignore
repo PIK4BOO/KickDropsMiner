@@ -1,0 +1,16 @@
+# Ignore lo*cal app data
+cookies/*
+chrome_data/*
+utils/chrome_data/
+utils/cookies/
+config.json*
+config.json
+*.lock
+__pycache__/
+dist/
+build/
+*.spec
+example_response.json
+/useful data
+progressapi_exampleresult.json
+streamerinfo_example.json

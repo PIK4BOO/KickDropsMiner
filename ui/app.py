@@ -40,7 +40,7 @@ from utils.backoff import ExponentialBackoff
 from utils.translations import translate, TRANSLATIONS
 
 
-DONATION_URL = os.environ.get("KICKDROPS_DONATION_URL", "")
+DONATION_URL = "https://paypal.me/thuliotria"
 
 
 class App(ctk.CTk):

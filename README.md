@@ -32,18 +32,6 @@ Tambien se puede lanzar directamente:
 python main.py
 ```
 
-## Archivos locales no incluidos en Git
-
-Estos archivos/carpetas contienen datos locales o temporales y no se suben al repositorio:
-
-- `config.json`
-- `cookies/`
-- `chrome_data/`
-- `utils/config.json`
-- `utils/cookies/`
-- `utils/chrome_data/`
-- `*.lock`
-- `__pycache__/`
 
 ## Dependencias principales
 
